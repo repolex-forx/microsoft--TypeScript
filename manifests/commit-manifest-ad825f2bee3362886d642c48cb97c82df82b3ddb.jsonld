@@ -23,17 +23,17 @@
       "@type": "repolex:GraphFile",
       "repolex:graphType": "branch",
       "repolex:graphFilePath": "branch/branch.nq.gz",
-      "repolex:graphFileSize": 34341
+      "repolex:graphFileSize": 34332
     },
     {
       "@type": "repolex:GraphFile",
       "repolex:graphType": "tag",
       "repolex:graphFilePath": "tag/tag.nq.gz",
-      "repolex:graphFileSize": 10634
+      "repolex:graphFileSize": 10675
     }
   ],
   "repolex:parseStatus": "parsed",
-  "repolex:parsedAt": "2026-04-13T19:04:48.226073+00:00",
+  "repolex:parsedAt": "2026-04-13T20:02:58.064831+00:00",
   "repolex:parserVersion": "0.1.0",
   "git:tagName": "v5.9-rc"
 }
