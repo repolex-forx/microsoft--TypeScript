@@ -1269,8 +1269,9 @@
     {
       "@id": "https://repolex.ai/r/microsoft/TypeScript/commit/a7e3374f13327483fbe94e32806d65785b0b6cda",
       "git:hexsha": "a7e3374f13327483fbe94e32806d65785b0b6cda",
-      "repolex:parseStatus": "pending",
-      "git:tagName": "v5.6.2"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v5.6.2",
+      "repolex:parsedAt": "2026-04-16T20:34:57.821983+00:00"
     },
     {
       "@id": "https://repolex.ai/r/microsoft/TypeScript/commit/d48a5cf89a62a62d6c6ed53ffa18f070d9458b85",
