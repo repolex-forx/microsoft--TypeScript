@@ -1257,8 +1257,9 @@
     {
       "@id": "https://repolex.ai/r/microsoft/TypeScript/commit/b4732bdd6199ec353ec0873f334515f391d80d3b",
       "git:hexsha": "b4732bdd6199ec353ec0873f334515f391d80d3b",
-      "repolex:parseStatus": "pending",
-      "git:tagName": "v5.6-beta"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v5.6-beta",
+      "repolex:parsedAt": "2026-04-17T05:53:26.368734+00:00"
     },
     {
       "@id": "https://repolex.ai/r/microsoft/TypeScript/commit/6212132b835145b1a8fd49982680ac668caf3ddc",
@@ -1372,6 +1373,12 @@
       "git:hexsha": "607a22a90d1a5a1b507ce01bb8cd7ec020f954e7",
       "repolex:parseStatus": "pending",
       "git:tagName": "v6.0.2"
+    },
+    {
+      "@id": "https://repolex.ai/r/microsoft/TypeScript/commit/050880ce59e30b356b686bd3144efe24f875ebc8",
+      "git:hexsha": "050880ce59e30b356b686bd3144efe24f875ebc8",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v6.0.3"
     }
   ]
 }
