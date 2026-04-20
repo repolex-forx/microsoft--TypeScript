@@ -1187,7 +1187,7 @@
       "git:hexsha": "63717cf44a64585175c76c336c8f8d87d5384d16",
       "repolex:parseStatus": "parsed",
       "git:tagName": "v5.3.3",
-      "repolex:parsedAt": "2026-04-20T19:35:59.809080+00:00"
+      "repolex:parsedAt": "2026-04-20T20:53:59.405607+00:00"
     },
     {
       "@id": "https://repolex.ai/r/microsoft/TypeScript/commit/e80675868dff622d0870939e7c9930c68904e7e7",
